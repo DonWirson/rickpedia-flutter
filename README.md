@@ -1,0 +1,1 @@
+# rickpedia-flutter
